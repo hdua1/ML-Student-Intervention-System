@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# SemanticWeb
-# ML-Student-Intervention-System
-# ML-Student-Intervention-System
-# Project: Building a Student Intervention System
-# Project: Building a Student Intervention System
-# Project: Building a Student Intervention System
-# Project: Building a Student Intervention System
-=======
 # Building a Student Intervention System
 
 About project - Given student data, identify students who might need early intervention before they fail to graduate.
@@ -171,4 +162,3 @@ For dataset of size approximately 300 and after considering factors such as F1 s
 ### Model's final F1 score
 
 `0.978102189781`
->>>>>>> 812118f70fe919b622f6967962db0c5e74f4ff3e
